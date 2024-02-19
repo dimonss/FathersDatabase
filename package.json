@@ -1,0 +1,22 @@
+{
+  "name": "access",
+  "version": "1.0.0",
+  "description": "for readc access files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "access"
+  ],
+  "author": "DiCh",
+  "license": "ISC",
+  "type": "module",
+  "compilerOptions": {
+    "esModuleInterop": true
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6",
+    "xlsx": "^0.18.5"
+  }
+}

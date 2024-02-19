@@ -1,0 +1,22 @@
+# folders
+/node_modules
+/static
+/.idea
+
+# production
+/build
+
+# envs
+.DS_Store
+.env
+
+npm-debug.log*
+
+#db
+dbTest.sqlite
+*.sql
+*.sqlite
+*.accbd
+*.xls
+*.xlsx
+*.accdb
